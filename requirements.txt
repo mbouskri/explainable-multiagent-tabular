@@ -1,0 +1,8 @@
+torch==2.0.0
+torchmetrics==0.11.4
+scikit-learn==1.2.2
+openml==0.13.1
+category-encoders==2.6.0
+numpy==1.26.3
+pandas==2.0.1
+matplotlib==3.7.1
